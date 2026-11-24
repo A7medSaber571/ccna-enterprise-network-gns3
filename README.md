@@ -129,4 +129,4 @@ Failover tests worth running: shut `Serial1/0` on HQ and confirm traffic moves t
 
 ## Author
 
-**[Your Name]** | [LinkedIn](https://www.linkedin.com/in/your-profile) | CCNA candidate
+**[Ahmed Mohamed Saber]** | [LinkedIn](https://www.linkedin.com/in/iahmedsaber571/) | CCNA candidate
