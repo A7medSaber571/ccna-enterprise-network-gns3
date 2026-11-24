@@ -3,7 +3,7 @@
 A two-site enterprise network built in GNS3 as CCNA practice. It uses a hierarchical **Access / Distribution** design with redundancy at every layer: dual uplinks, first-hop redundancy, dual WAN links, and a GRE tunnel between the sites running OSPF.
 
 ## Topology
-
+![GNS3 topology](docs/topology.png)
 ```mermaid
 graph TD
     subgraph ISPs
