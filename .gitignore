@@ -1,0 +1,7 @@
+# GNS3 runtime artifacts (not needed to review the design)
+nvram_*
+vlan.dat*
+private-config.cfg
+*.log
+*_stdout.txt
+NETMAP
