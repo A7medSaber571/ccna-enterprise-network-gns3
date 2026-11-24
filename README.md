@@ -31,7 +31,7 @@ graph TD
     D2B --- AB
 ```
 
-> Tip: add a screenshot of your GNS3 canvas here, e.g. `![GNS3 topology](docs/topology.png)`.
+
 
 ## Features implemented
 
